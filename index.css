@@ -1,0 +1,28 @@
+.navbar {
+    height: 200px;
+    width: 100%;
+    background-color: powderblue;
+}
+.navbar a{
+	float:center;
+	color:red;
+	text-align:center;
+	font-size:31px;
+	text-decoration :none;
+	} 
+.navbar a absolute{
+	
+  } 
+#imgd{
+	height:400px;
+	width:100%;
+	position:center;
+	}	
+.footer {
+	bottom:0;
+	left:0;
+    width: 100%;
+	position:fixed;
+	padding:none;
+    background-color: blue;
+}
